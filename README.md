@@ -1,0 +1,3 @@
+Esse repositórioo gaurda meus códigos sobre bancos de dados utilizando o PostgreSQL que serviram de base para meus treinamentos e aprendizagem. Estou desenvolvendo uma biblioteca pessoal de livros, onde posso armazenar e gerenciar informações sobre os livros que possuo. Utilizando o PostgreSQL como banco de dados, estou criando um sistema que me permitirá cadastrar livros, incluindo detalhes como título, autor, ano de publicação e gênero. Além disso, estou explorando recursos como consultas SQL para realizar buscas e filtragens em minha biblioteca. 
+
+Conhecimentos adiquiros com auxilo da plataforma educacional Alura.
