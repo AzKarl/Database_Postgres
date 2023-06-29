@@ -1,4 +1,7 @@
 #PostgreSQL
+
+--Após a instalação do banco, tens a criação das querys
+
 CREATE DATABASE minha_biblioteca;
 
 -- retornar a data e a hora atuais timestamp. 
@@ -21,4 +24,3 @@ ADD COLUMN data_aquisicao DATE;
 
 -- Permite ver as linhas e colunas da tabela.
 SELECT * FROM livros;
-
